@@ -1,3 +1,5 @@
 __pycache__/
 *.parquet
 .venv/
+.python-version
+uv.lock
